@@ -7,7 +7,7 @@ Parameters:
     Default: arn:aws:iam::aws:policy/service-role/AWSCodeDeployRole
   KeyName:
     Type: AWS::EC2::KeyPair::KeyName
-    Default: mythycal-fits
+    Default: mithycal-fits
 
 Mappings:
   RegionMap:
